@@ -1,0 +1,13 @@
+---
+attributes:
+  required: false
+  default_value:
+  value_type: array
+github:
+  required: false
+  default_value:
+  value_type: string
+id:
+  required: true
+  default_value:
+  value_type: string
